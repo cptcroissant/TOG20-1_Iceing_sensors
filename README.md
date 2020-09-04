@@ -1,7 +1,7 @@
 # TOG20-1_Iceing_sensors
 this is our first colaborative project after completion of Yandex.praktikum DS05
 
-# Python, Pandas, Seaborn, seasonal_decompose
+# Python, Pandas, sklearn, Plotly, Seaborn, statsmodels
 
 Анализ данных (третья редакция, без секретов, для обсуждения с Заказчиком)
 
@@ -20,6 +20,7 @@ Team Lead / Project & Product Manager: __Конаков К.Г. (Konstantin Konak
 
 Особое внимание обращено на выброс Fbend_std. Показано, что это выброс происходит практически одновременно на трех датчиках
 
-Стадия A)корреляционный анализ, elbow, кластеризация по первому датчику
+Стадия A)корреляционный анализ, elbow, кластеризация по первому датчику, поиск закономерностей и аномалий.  
+Произведен поиск кластеровпо всем признакам и по наиболее значимым.  
 
 
