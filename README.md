@@ -6,8 +6,9 @@ this is our first colaborative project after completion of Yandex.praktikum DS05
 Анализ данных (третья редакция, без секретов, для обсуждения с Заказчиком)
 
 Состав Команды (Team):
-Data Scientist: Кирилл Клюквин (Kirill Klyukvin)
-Team Lead / Project & Product Manager: Конаков К.Г. (Konstantin Konakov)
+Data Scientist: __Кирилл Клюквин (Kirill Klyukvin)__
+
+Team Lead / Project & Product Manager: __Конаков К.Г. (Konstantin Konakov)__
 
 ## Что сделано
 
